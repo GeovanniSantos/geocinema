@@ -13,4 +13,4 @@ A aplicação consiste em uma página em Bootstrap para catálogo de filmes, ond
 - HTML
 - CSS
 - Bootstrap
--JSON
+- JSON
